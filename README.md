@@ -6,6 +6,13 @@
 
 > ⚠️ **Disclaimer:** This guide is intended **strictly for authorized penetration testing and educational purposes only**. Unauthorized scanning or enumeration of systems you do not own or have explicit permission to test is **illegal**. Always obtain written authorization before performing any recon activities.
 
+<div align="center">
+  <img src="assets/demo.svg" alt="alternative image" width="900">
+  <p align="center">
+    <b>Figure: Demo </b>
+  </p>
+</div>
+
 ---
 
 ## 📖 Table of Contents
